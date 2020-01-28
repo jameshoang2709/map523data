@@ -1,7 +1,7 @@
 {
-    "student" : "Viet Khoi Hoang"
-    "version" : "1.0.0"
-    "count" : 4
+    "student" : "Viet Khoi Hoang",
+    "version" : "1.0.0",
+    "count" : 4,
     "data" : [
         {"id": 1, "courseCode": "MAP523", "courseName": "iOS Programming"},
         {"id": 2, "courseCode": "PRJ566", "courseName": "Project Management"},
