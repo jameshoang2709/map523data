@@ -1,8 +1,8 @@
 {
     "student": "Viet Khoi Hoang",
-    "version": "1.0.0",
     "timestamp": "2020-01-26T10:27:15+0000",
     "count": 4,
+    "version": "1.0.0",
     "data": [
         {"id": 1, "courseCode": "MAP523", "courseName": "iOS Programming"},
         {"id": 2, "courseCode": "PRJ566", "courseName": "Project Management"},
